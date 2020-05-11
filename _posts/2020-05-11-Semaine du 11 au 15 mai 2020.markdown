@@ -1,6 +1,6 @@
 # Semaine du 11 au 15 mai 2020
 
-(https://docs.google.com/document/d/1LqKot_Ud7zwTSMtakhbXGWJtz4xgUPh0/edit#heading=h.gjdgxs)
+<https://docs.google.com/document/d/1LqKot_Ud7zwTSMtakhbXGWJtz4xgUPh0/edit#heading=h.gjdgxs>
 
 ## Activité 1 : Lecture
 
@@ -13,21 +13,21 @@
 ### Activités à faire :
 
 1. Lis le livre de Lily
-[Click Here](https://ebookids.com/fr/livres-enfants/histoire/3-6/les-aventures-de-lily/Lily-noue-ses-lacets-B0g)
+	- <https://ebookids.com/fr/livres-enfants/histoire/3-6/les-aventures-de-lily/Lily-noue-ses-lacets-B0g>
 
 2. Réponds aux questions de compréhension sur Google Forms
-<https://docs.google.com/forms/d/e/1FAIpQLSfj6ZXpb9A5RRBeGL6fdOkwf3xhJw8Yblgt39JS0-v1tKITMg/viewform>
+	- <https://docs.google.com/forms/d/e/1FAIpQLSfj6ZXpb9A5RRBeGL6fdOkwf3xhJw8Yblgt39JS0-v1tKITMg/viewform>
 
 ### Lecture à la maison : 
 
 1. continue de t’exercer sur pepit, en associant les  petites phrases à l’image. Il y a plusieurs niveaux. Clique ici.
-(http://www.pepit.be/exercices/primaire2/francais/lireassocierimage_s2/page.html)
+	- <http://www.pepit.be/exercices/primaire2/francais/lireassocierimage_s2/page.html>
 
 2. Lis le cahier de lecture sur les sons en pièces jointes. Cette semaine, tu fais les sons “UN” de la page 4 fais les activités de la fiche. Clique ici  
-(http://recit.csdecou.qc.ca/classeweb/genevievesanterre/files/2014/09/Mon-cahier-de-lecture.pdf)
+	- <http://recit.csdecou.qc.ca/classeweb/genevievesanterre/files/2014/09/Mon-cahier-de-lecture.pdf>
 
 3.  voici un lien qui peut vous aider à pratiquer les mots fréquents chaque semaine. Cliquez ici  et ensuite sur  le lien orange.
-(http://brigitteprof.brigitteleonard.com/2015/10/18/apprendre-les-mots-frequents/)
+	- <http://brigitteprof.brigitteleonard.com/2015/10/18/apprendre-les-mots-frequents/>
 
 
 ## Activité 2 : Écriture-Communication
@@ -39,12 +39,12 @@
 ## Travail à faire :
 
 1. Relis l’histoire de Lily
-(https://ebookids.com/fr/livres-enfants/histoire/3-6/les-aventures-de-lily/Lily-noue-ses-lacets-B0g)
-(https://classroom.google.com/u/2/c/NDE2OTUwMzk2MTFa/a/MTAwNzUzMDY1NDAx/details)
+	- <https://ebookids.com/fr/livres-enfants/histoire/3-6/les-aventures-de-lily/Lily-noue-ses-lacets-B0g>
+	- <https://classroom.google.com/u/2/c/NDE2OTUwMzk2MTFa/a/MTAwNzUzMDY1NDAx/details>
 
 2. Écris sur une feuille ce que tu as fait  pour la première fois et comment tu l’as réussi . Tu peux écrire sur cette feuille en fichier joint  ou tu peux utiliser une feuille que tu veux.
 Ton récit doit respecter les éléments suivants  (quand, qui, quoi, où ...)
-(https://docs.google.com/document/d/1SBvIp9IrhDLrL8KRyKtMVNgLy9tE9RECYGyoSNjmbEU/edit)
+	- <https://docs.google.com/document/d/1SBvIp9IrhDLrL8KRyKtMVNgLy9tE9RECYGyoSNjmbEU/edit>
 
 ### N’oublie pas de:
 - Faire des phrases qui ont du sens.
@@ -68,17 +68,17 @@ Ton récit doit respecter les éléments suivants  (quand, qui, quoi, où ...)
 ### Activités à faire :
 
 1. Regarde les vidéos suivantes sur la régularité en cliquant ici
-(https://youtu.be/1LNMqEFgkqU)
-(https://classroom.google.com/u/2/c/NDE2OTUwMzk2MTFa/a/MTAwNzUzMDY1NDAx/details)
+	- <https://youtu.be/1LNMqEFgkqU>
+	- <https://classroom.google.com/u/2/c/NDE2OTUwMzk2MTFa/a/MTAwNzUzMDY1NDAx/details>
 
 2. Fais l’activité sur “compter jusqu’à cent” en plaçant chaque nombre à sa place.
-(http://soutien67.free.fr/math/activites/compter/100/compter_100_1.htm)
+	- <http://soutien67.free.fr/math/activites/compter/100/compter_100_1.htm>
 
 3. Continue avec les activités de cette page
-(http://soutien67.free.fr/math/activites/compter/50/compter_50_1.htm)
+	- <http://soutien67.free.fr/math/activites/compter/50/compter_50_1.htm>
 
-Annexe : Grille de 100 en pièces jointes.
-(https://docs.google.com/document/d/1PQPxGwUTwurhretb34KmaN0SZNuHKZRPgyBDnswDqcs/edit)
+### Annexe : Grille de 100 en pièces jointes.
+	- <https://docs.google.com/document/d/1PQPxGwUTwurhretb34KmaN0SZNuHKZRPgyBDnswDqcs/edit>
 
 ## Activité 4 : Mon journal de santé
 ** par Dominique Perreault **
@@ -88,5 +88,5 @@ Cette semaine, vous aurez à tenir compte de vos activités (sommeil, AP, alimen
 Passez une belle semaine :)
 Mme Dominique
 
-(https://drive.google.com/open?id=1D3QCABh0X_3f-WYx5yWYqyoGj6I1yMyAJusrP6t9EXw&authuser=2)
-(https://docs.google.com/document/d/1mHlajAssMRdz_j3ULfQX4Bt04GItbMNENLU6GZ4Plxk/edit)
+	- <https://drive.google.com/open?id=1D3QCABh0X_3f-WYx5yWYqyoGj6I1yMyAJusrP6t9EXw&authuser=2>
+	- <https://docs.google.com/document/d/1mHlajAssMRdz_j3ULfQX4Bt04GItbMNENLU6GZ4Plxk/edit>
